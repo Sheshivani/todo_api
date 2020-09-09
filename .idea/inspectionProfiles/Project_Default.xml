@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="app.views.UserAdminCreationForm" />
+          <option value="app.forms" />
+          <option value="app.views.UserCreationfrom" />
+          <option value="app.models.CustomUserManager" />
+          <option value="app.models.*" />
+          <option value="main.flask_mysql" />
+          <option value="main.flask_mysqldb" />
+          <option value="trail.flask_mysqldb" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
